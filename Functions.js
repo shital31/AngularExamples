@@ -1,4 +1,4 @@
-function fn(str){
+function fn(){
     console.log("Hi World")
 }
-fn(str)
+fn();
