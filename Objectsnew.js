@@ -4,4 +4,4 @@ var Dog ={
     "legs": 4,
     "friends":"everything"
 }
-console.log(Dog); 
+console.log(Dog ); 
