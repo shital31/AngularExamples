@@ -26,9 +26,9 @@
 
 
 {
-    function calculate(mob:string): void | boolean {
+    // function calculate (mob:string): void | boolean {
          
-    }
-    calculate : '1567421'
-    calculate:'true'
+    // }
+    //calculate : '1567421'
+    //calculate:'true'//
 }

@@ -18,8 +18,8 @@
     var uni = function () { return ''; }; //hold any type of data
 }
 {
-    function calculate(mob) {
-    }
-    calculate: '1567421';
-    calculate: 'true';
+    // function calculate (mob:string): void | boolean {
+    // }
+    //calculate : '1567421'
+    //calculate:'true'//
 }
